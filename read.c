@@ -1,5 +1,5 @@
 // Read to a file
-//read.c
+// read.c
 
 #include <stdio.h>
 int main(void)
