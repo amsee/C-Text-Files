@@ -1,5 +1,5 @@
 // Writing to a File
-// writeToFile.c
+// write.c
 
 #include <stdio.h>
  
